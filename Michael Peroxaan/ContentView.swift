@@ -9,8 +9,15 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
-            .frame(maxWidth: .infinity, maxHeight: .infinity)
+        ZStack {
+            Color.init("Background")
+                .edgesIgnoringSafeArea(.all)
+            
+            Image("MichaelPeroxaan")
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+        }
+
     }
 }
 
