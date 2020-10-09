@@ -154,6 +154,8 @@
 			dependencies = (
 			);
 			name = "Michael Peroxaan";
+			packageProductDependencies = (
+			);
 			productName = "Michael Peroxaan";
 			productReference = 409BB1C125302B3F0036B11A /* Michael Peroxaan.app */;
 			productType = "com.apple.product-type.application";
@@ -225,6 +227,8 @@
 				Base,
 			);
 			mainGroup = 409BB1B825302B3F0036B11A;
+			packageReferences = (
+			);
 			productRefGroup = 409BB1C225302B3F0036B11A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
